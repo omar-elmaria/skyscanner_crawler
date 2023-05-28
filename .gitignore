@@ -4,3 +4,4 @@ data.txt
 *.gdoc
 test_notebook.ipynb
 .env
+archive/
