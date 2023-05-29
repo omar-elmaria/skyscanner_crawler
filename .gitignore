@@ -5,3 +5,4 @@ data.txt
 test_notebook.ipynb
 .env
 archive/
+__pycache__
