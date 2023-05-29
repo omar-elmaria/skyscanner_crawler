@@ -6,3 +6,4 @@ test_notebook.ipynb
 .env
 archive/
 __pycache__
+*.gsheet
