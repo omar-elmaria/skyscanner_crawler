@@ -7,3 +7,4 @@ test_notebook.ipynb
 archive/
 __pycache__
 *.gsheet
+*.log
