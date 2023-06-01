@@ -5,6 +5,7 @@ data.txt
 test_notebook.ipynb
 .env
 archive_general/
+archive_multiple_stops/
 __pycache__
 *.gsheet
 *.log
