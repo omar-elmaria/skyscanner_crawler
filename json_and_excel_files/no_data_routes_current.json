@@ -1,0 +1,191 @@
+[
+    {
+        "departure_city": "Barcelona (ES)",
+        "arrival_city": "Maastricht/Aachen (NL)",
+        "origin_city_id": "BCN",
+        "arrival_city_id": "MST",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Bari",
+        "arrival_city": "Maastricht/Aachen (NL)",
+        "origin_city_id": "BRI",
+        "arrival_city_id": "MST",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Bari",
+        "arrival_city": "Malta (MT)",
+        "origin_city_id": "BRI",
+        "arrival_city_id": "MT",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Berlin (DE)",
+        "arrival_city": "Lappeenranta",
+        "origin_city_id": "BER",
+        "arrival_city_id": "LPP",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Berlin (DE) 00",
+        "arrival_city": "Lappeenranta",
+        "origin_city_id": "BER",
+        "arrival_city_id": "LPP",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Bologna",
+        "arrival_city": "Comiso",
+        "origin_city_id": "BLQ",
+        "arrival_city_id": "CIY",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Clermont-Ferrand",
+        "arrival_city": "Fes",
+        "origin_city_id": "CFE",
+        "arrival_city_id": "FEZ",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Lappeenranta",
+        "arrival_city": "Berlin (DE)",
+        "origin_city_id": "LPP",
+        "arrival_city_id": "BER",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Lappeenranta",
+        "arrival_city": "Berlin (DE) 00",
+        "origin_city_id": "LPP",
+        "arrival_city_id": "BER",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Lappeenranta",
+        "arrival_city": "Milan",
+        "origin_city_id": "LPP",
+        "arrival_city_id": "MILA",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Lappeenranta",
+        "arrival_city": "Vienna",
+        "origin_city_id": "LPP",
+        "arrival_city_id": "VIE",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "London (GB)",
+        "arrival_city": "Maastricht/Aachen (NL)",
+        "origin_city_id": "LOND",
+        "arrival_city_id": "MST",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Maastricht/Aachen (NL)",
+        "arrival_city": "Alicante",
+        "origin_city_id": "MST",
+        "arrival_city_id": "ALC",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Maastricht/Aachen (NL)",
+        "arrival_city": "Barcelona (ES)",
+        "origin_city_id": "MST",
+        "arrival_city_id": "BCN",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Maastricht/Aachen (NL)",
+        "arrival_city": "Bari",
+        "origin_city_id": "MST",
+        "arrival_city_id": "BRI",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Maastricht/Aachen (NL)",
+        "arrival_city": "London (GB)",
+        "origin_city_id": "MST",
+        "arrival_city_id": "LOND",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Maastricht/Aachen (NL)",
+        "arrival_city": "Porto",
+        "origin_city_id": "MST",
+        "arrival_city_id": "OPO",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Maastricht/Aachen (NL)",
+        "arrival_city": "Zadar",
+        "origin_city_id": "MST",
+        "arrival_city_id": "ZAD",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Milan",
+        "arrival_city": "Lappeenranta",
+        "origin_city_id": "MILA",
+        "arrival_city_id": "LPP",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Porto",
+        "arrival_city": "Maastricht/Aachen (NL)",
+        "origin_city_id": "OPO",
+        "arrival_city_id": "MST",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Porto",
+        "arrival_city": "Malta (MT)",
+        "origin_city_id": "OPO",
+        "arrival_city_id": "MT",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Rijeka",
+        "arrival_city": "Brussels",
+        "origin_city_id": "RJK",
+        "arrival_city_id": "BRU",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Rijeka",
+        "arrival_city": "Stockholm",
+        "origin_city_id": "RJK",
+        "arrival_city_id": "STOC",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Vienna",
+        "arrival_city": "Lappeenranta",
+        "origin_city_id": "VIE",
+        "arrival_city_id": "LPP",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Zadar",
+        "arrival_city": "Maastricht/Aachen (NL)",
+        "origin_city_id": "ZAD",
+        "arrival_city_id": "MST",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Plovdiv",
+        "arrival_city": "London (GB)",
+        "origin_city_id": "PDV",
+        "arrival_city_id": "LOND",
+        "crawling_date": "2023-06-19"
+    },
+    {
+        "departure_city": "Rijeka",
+        "arrival_city": "London (GB)",
+        "origin_city_id": "RJK",
+        "arrival_city_id": "LOND",
+        "crawling_date": "2023-06-19"
+    }
+]
