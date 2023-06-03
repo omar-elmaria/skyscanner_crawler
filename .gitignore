@@ -9,3 +9,4 @@ archive_multiple_stops/
 __pycache__
 *.gsheet
 *.log
+*.png
