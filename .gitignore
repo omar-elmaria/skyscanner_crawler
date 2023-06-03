@@ -10,3 +10,4 @@ __pycache__
 *.gsheet
 *.log
 *.png
+flight_data_current.json
