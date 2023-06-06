@@ -11,3 +11,4 @@ __pycache__
 *.log
 *.png
 flight_data_current.json
+*.jpg
